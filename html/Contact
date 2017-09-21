@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tiffany Nieh | Heard</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Lora|Montserrat" rel="stylesheet">
+        
+    </head>
+    <body id="casestudy">
+        <div class="header">
+            <div class="menu">
+                <ul class="menu_links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.html#portfolio">Work</a></li>
+                    <li><a href="index.html"><img class="logo" src="Logov2.jpg"></a></li>
+                    <li><a href="index.html#about">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="case-content">
+            <div class="content-heading">
+                <h1>Heard</h1>
+                <h4>Designing the onboarding process</h4>
+            </div>
+            <div class="main_img">
+                <img src="quora.jpg">
+            </div>
+            
+            <div class="overview">
+                <h2>Overview</h2>
+                    <p>Heard is an app centered around school communication. It is a convenient tool used by parents, teachers and administrators to keep each other updated about school related issues and events.</p>
+            </div>
+            <div class="summary container-fluid container-max-width">
+                <div class="row">
+                    <div class="col-md-4 col-bordered">
+                        <center><span class="title"><p>The Challenge</p></span></center>
+                            <p>How can we design an onboarding process that aligns with both user and business goals?</p>
+                    </div>
+                    <div class="col-md-4 col-bordered">
+                        <center><span class="title"><p>My Role</p></span></center>
+                            <p>Working in a team of 6 other UX designers, we were all closely involved in the end to end process of this project.</p>
+                    </div>
+                    <div class="col-md-4 col-bordered">
+                        <center><span class="title"><p>Skills</p></span></center>
+                            <p>User Research | Usability Testing | Personas | Wireframing | Card Sorting | Task Flow | Prototyping | Lo/Hi-Fidelity Design | Sketch</p>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            
+            <div class="content-process">
+                <h3 class="main">The Process</h3>
+                <div class="section">
+                    <h3>1. User Research</h3>
+                        <figure>
+                        <img src="Heard_AffinityMapping.jpg">
+                        <figcaption>Affinity Map using information gathered from user interviews</figcaption>
+                        </figure>
+                        <p>In order to create a seamless onboarding experience, it was important for us to focus heavily on research and understand pain points surrounding the current app.</p>
+                        <h4>Research Process</h4>
+                            <div class="lists">
+                                <ul>
+                                    <li>User Interviews: To gain insight into reasons for parents' engagement or disengagement with the Heard app</li>
+                                    <li>User Personas: Based off of information gathered from user interviews</li>
+                                    <li>Affinity Mapping: To organize and find patterns within the different personas </li>
+                                    <li>Jobs to Be Done: To help us understand user motivations and the outcomes that exist behind these motivations </li>
+                                </ul>
+                            </div>
+                        <figure>
+                            <img src="Heard_UserPersona.png">
+                        </figure>
+                        <h4>Main Research Takeaways</h4>
+                        <p>Through usability testing and interviews, we were able to gather common themes amongst new users of HEARD:</p>
+                        <div class="lists">
+                            <ul>
+                                <li>Even after signing up, parents still did not understand what HEARD was used for. </li>
+                                <li>Parents were worried about privacy and found the amount of information requested by HEARD was off-putting, especially since it involved their children.</li>
+                                <li>Parents questioned HEARD's legitimacy since their school name was absent from the e-mail invitation.</li>
+                            </ul>
+                        </div>
+                        <p>Current users of the app also complained that:</p>
+                        <div class="lists">
+                            <ul>
+                                <li>Too many notifications received</li>
+                                <li>Settings were hard to find and understand</li>
+                            </ul>
+                        </div>
+                        <h4>Red Route Analysis Tool</h4>
+                            <p>To figure out which aspects of the app we should focus on and highlight during the onboarding process, we used the "Red Route Analysis" tool. We created a list of tasks and sorted them by asking two questions:</p>
+                                <div class="lists">
+                                    <ul>
+                                        <li>How many users need this function?</li>
+                                        <li>How often do users use this function?</li>
+                                    </ul>
+                                </div>
+                            <figure>
+                                <img src="Red_Route.png">
+                            </figure>                
+                        </div>
+                         
+        </div>
+        </div>
+    
+    </body>
+    <footer class="footer"> 
+        <div class="footer-text">&copy 2017 Tiffany Nieh</div>
+    </footer>
+</html>
