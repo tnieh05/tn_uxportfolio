@@ -114,10 +114,10 @@ a:hover {
 
 .about-text {
     color: white;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+/*    position: absolute;*/
+/*    top: 50%;*/
+/*    left: 50%;*/
+/*    transform: translate(-50%, -50%);*/
 }
 
 .about-text h1 {
@@ -192,11 +192,11 @@ figcaption {
 
 .about {
     background-color: #6C5B7B;
-    height: 100%;
-    background-position: center;
-    background-repeat: repeat;
+/*    height: 100%;*/
+/*    background-position: center;*/
+/*    background-repeat: repeat;*/
     position: relative;
-    padding: 0;
+    padding: 12em;
     margin: 0;
 }
 
@@ -504,3 +504,24 @@ hr {
     width: 400px;
 }
 
+.offset-wrapper {
+    position: relative;
+}
+
+.offset-target {
+    position: absolute;
+    top: -70px;
+    
+}
+
+body, html, .header {
+    min-width: 480px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.bear img {
+    width: 200px;
+}
