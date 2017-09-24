@@ -270,6 +270,10 @@ footer {
     max-width: 100%;
 }
 
+.main_img {
+    text-align: center;
+}
+
 h2 {
     font-family: "montserrat";
     text-transform: uppercase;
