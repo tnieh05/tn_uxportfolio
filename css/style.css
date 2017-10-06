@@ -81,9 +81,9 @@ a:hover {
     margin-bottom: 0;
 }
 
-
+/*F67280*/
 .hero-image {
-    background-color: #F67280;
+    background-color: white;
     height: 100%;
     background-size: cover;
     background-position: center;
@@ -94,7 +94,7 @@ a:hover {
 }
 
 .hero-text {
-    color: white;
+    color: black;
     text-align: left;
     position: absolute;
     top: 50%;
@@ -113,7 +113,7 @@ a:hover {
 }
 
 .about-text {
-    color: white;
+    color: black;
 /*    position: absolute;*/
 /*    top: 50%;*/
 /*    left: 50%;*/
@@ -131,7 +131,7 @@ a:hover {
 }
 
 .contact-text {
-    color: white;
+    color: black;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -192,7 +192,7 @@ figcaption {
 }
 
 .about {
-    background-color: #6C5B7B;
+    background-color: #white;
 /*    height: 100%;*/
 /*    background-position: center;*/
 /*    background-repeat: repeat;*/
@@ -202,7 +202,7 @@ figcaption {
 }
 
 .contact {
-    background-color: #2e9598;
+    background-color: white;
     height: 100%;
     background-position: center;
     background-repeat: repeat;
@@ -417,7 +417,7 @@ h2 {
 }
 
 .resume {
-    color: white;
+    color: black;
     text-decoration: underline;
 }
 
