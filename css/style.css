@@ -104,7 +104,8 @@ a:hover {
 
 .hero-text h1 {
     font-family: "montserrat";
-    font-size: 48px;
+    font-size: 64px;
+    margin-bottom: 5%;
 }
 
 .hero-text p {
@@ -122,7 +123,8 @@ a:hover {
 
 .about-text h1 {
     font-family: "montserrat";
-    font-size: 48px;
+    font-size: 64px;
+    margin-bottom: 5%;
 }
 
 .about-text p {
@@ -144,7 +146,8 @@ a:hover {
 
 .contact-text h1 {
     font-family: "montserrat";
-    font-size: 48px
+    font-size: 64px;
+    margin-bottom: 5%;
 }
 
 .contact-text p {
