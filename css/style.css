@@ -183,6 +183,15 @@ figcaption {
     margin-bottom: 10%;
 }
 
+.cardsort {
+    
+    margin: auto;
+}
+
+.mercari-prototype {
+    width: 300px;
+    margin: auto;
+}
 
 .large_section {
     margin-top: 10%;
