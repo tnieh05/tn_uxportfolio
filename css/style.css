@@ -510,6 +510,10 @@ h2 {
     font-size: 18px;
 }
 
+.login {
+    width: 250px;
+}
+
 .card {
     border: 1px solid black;
 }
