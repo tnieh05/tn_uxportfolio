@@ -127,6 +127,24 @@ a:hover {
     margin-bottom: 5%;
 }
 
+.foliotitle {
+    font-size: 40px;
+}
+
+.button {
+        margin: 10% 0 0 0;
+        width: 150px;
+        font-size: 20px;
+        padding:7%;
+        color: white;
+        background-color: #2ecc71;
+        border: none;
+        border-radius: 0;
+        box-shadow: inset 0 -2px #28be68;
+        outline: none;
+        border-bottom: 2px solid #28be68;
+}
+
 .about-text p {
     font-family: "Lora";
     font-size: 18px;
@@ -209,9 +227,19 @@ figcaption {
 /*    background-position: center;*/
 /*    background-repeat: repeat;*/
     position: relative;
-    padding: 12em;
+    padding: 10em;
     margin: 0;
 }
+
+.creative {
+    background-color: #white;
+/*    height: 100%;*/
+/*    background-position: center;*/
+/*    background-repeat: repeat;*/
+    position: relative;
+    margin: 0;
+}
+
 
 .contact {
     background-color: white;
@@ -357,6 +385,10 @@ h2 {
     margin-top: 0%;
 }
 
+.parent h4 {
+    margin-bottom: 5%;
+}
+
 
 .section p {
     font-family: "lora";
@@ -436,10 +468,19 @@ h2 {
 /*top row of portfolio work imgs on main page*/
 .portfolio-boxes {
     margin: 5% 0 4% 0;
+    display: flex;
+}
+
+.center {
+    vertical-align: middle;
 }
 
 .container-max-width {
     max-width: 970px;
+}
+
+.container {
+    height: 100%;
 }
 
 .title p {
@@ -547,4 +588,9 @@ img {
     width: 200px;
 }
 
-
+.parent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
