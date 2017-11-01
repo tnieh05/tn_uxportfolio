@@ -61,6 +61,7 @@ li a {
     font-family: "montserrat";
     color: #000000;
     text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 .header img {
