@@ -131,6 +131,10 @@ a:hover {
 .foliotitle {
     font-size: 40px;
 }
+.flat-button button {
+    border-radius: 3px;
+    box-shadow: 0 2px 5px 0 rgba(211, 218, 227, 100);
+}
 
 .button {
         margin: 10% 0 0 0;
