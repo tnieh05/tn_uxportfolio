@@ -232,10 +232,15 @@ figcaption {
 /*    background-position: center;*/
 /*    background-repeat: repeat;*/
     position: relative;
-    padding: 10em;
+    padding: 5em 10em 10em 10em;
     margin: 0;
 }
 
+.color h3 {
+    font-family: "avenir";
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
 .creative {
     background-color: #white;
 /*    height: 100%;*/
@@ -480,6 +485,9 @@ h2 {
     vertical-align: middle;
 }
 
+.center .colorpalette {
+    width: 550px;
+}
 .container-max-width {
     max-width: 970px;
 }
