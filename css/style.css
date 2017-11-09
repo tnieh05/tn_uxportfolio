@@ -602,6 +602,11 @@ img {
     width: 200px;
 }
 
+.img_smaller {
+    width: 350px;
+    margin: auto;
+}
+
 .parent {
   display: flex;
   align-items: center;
